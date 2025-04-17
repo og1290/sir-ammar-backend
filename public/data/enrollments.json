@@ -31,5 +31,16 @@
     "id": "enroll_1744874709713",
     "submittedAt": "2025-04-17T07:25:09.713Z",
     "status": "new"
+  },
+  {
+    "name": "Ismail ",
+    "email": "ismailsehgal1234@gmail.com",
+    "phone": "3340656555",
+    "school": "Beaconhouse",
+    "grade": "10",
+    "subjects": "Islamiyat, Pakistan Studies",
+    "id": "enroll_1744900324180",
+    "submittedAt": "2025-04-17T14:32:04.180Z",
+    "status": "new"
   }
 ]
